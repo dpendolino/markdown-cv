@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -32,10 +32,10 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style: none;
 }
 blockquote, q {
-	quotes: none;
+    quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -49,23 +49,18 @@ table {
 
 /* end of reset */
 
-
-
 body {
 	font: normal normal 400;
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Avenir,Verdana,sans-serif;
-	margin-top: 1em;
-	margin-left: 1em;
 }
 
 p {
 	position: relative;
-	left: 25%;
+	margin-left: 25%;
 	margin-bottom: 0.7em;
-	margin-right: 0;
 	width: 55%;
 }
 
@@ -84,26 +79,21 @@ p code {
 }
 
 
-ul { 
+ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	margin-left: 25%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
+	padding-left: 1em;
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
+	list-style: circle inside;
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	/*color: #777;*/
+	padding-bottom: .1em;
+	padding-left: 1.2em;
+	text-indent: -2em;
 }
 
 li ul {
@@ -113,10 +103,14 @@ li ul {
 	margin-top: 0.25em;
 }
 
+ul + p {
+    margin-top: 1.5em;
+}
+
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
-	width: 80%;
+	width: 50%;
 }
 
 h1 {
@@ -124,10 +118,10 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	margin-left: 25%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -136,18 +130,17 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #bc412b;
-	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	margin-top: 2em;
 	text-align: right;
 	width: 20%;
 }
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	position: relative;
-	top: 1.7em;
+	margin-top: 1.7em;
 	text-align: right;
 	width: 20%;
 }
@@ -158,38 +151,168 @@ a {
 }
 
 a:hover {
-	color:#39f
+    color:#39f
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	margin-left: 25%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
 
 #webaddress a {
-	text-decoration: none;
+    text-decoration: none;
+    display: inline-block;
 }
 
 em {
-	/* font-weight: bold; */
 	font-style: italic;
 }
 
 strong {
-	font-weight: bold;
+    font-weight: bold;
 }
 
 #address {
-	display: none;
+    display: none;
 }
 
+table {
+	position: relative;
+	margin-left: 25%;
+	margin-bottom: 0.7em;
+	margin-right: 0;
+	width: 55%;
+}
 
+td {
+    padding:0 20px 10px 0;
+}
 
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
+div#main {
+    margin-top: 1em;
+}
+
+/* Small devices (phones, portrait tablets, 768px and down) */
+@media only screen and (max-width: 768px) {
+	body {
+	    width: 100%;
+	}
+	table tr td {
+	    display: block;
+	}
+	table tr td:nth-child(2)::before {
+		content: "Most familiar: ";
+		font-style: italic;
+	}
+	table tr td:nth-child(3)::before {
+		content: "Some experience: ";
+		font-style: italic;
+	}
+	table tr:first-child {
+	    display: none;
+	}
+	h1, h2, p, ul, #webaddress, table {
+		position: relative;
+		margin-left: 20px;
+		width: calc(100vw - 2 * 20px);
+	}
+	#webaddress {
+		text-align: center;
+	}
+	h2 {
+		text-align: left;
+	}
+	h2 + p {
+	    margin-top: .3em;
+	}
+	ul {
+	}
+	p code {
+		display: block;
+		position: relative;
+		right:  inherit;
+		text-align:  left;
+	}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	body {
+	    width: 100%;
+	}
+	table tr td {
+	    display: block;
+	}
+	table tr td:nth-child(2)::before {
+		content: "Most familiar: ";
+		font-style: italic;
+	}
+	table tr td:nth-child(3)::before {
+		content: "Some experience: ";
+		font-style: italic;
+	}
+	table tr:first-child {
+	    display: none;
+	}
+	h1, h2, p, ul, table, #webaddress {
+		position: relative;
+		margin-left: 15px;
+		margin-left: calc(248px + 100vw - 992px);
+	    width: calc(2 * (992px - 248px) - 100vw);
+	    /**/
+	    width: calc(768px - 2 * 20px);
+	    margin-left: calc((100vw - (768px - 2 * 20px)) / 2);
+	}
+	h2 {
+		text-align: left;
+	}
+	h2 + p {
+	    margin-top: .3em;
+	}
+	p code {
+		display: block;
+		position: relative;
+		right:  inherit;
+		text-align:  left;
+	}
+}
+
+/* Large devices (laptops/desktops, 1080 and up) */
+@media only screen and (min-width: 1080px) {
+	body {
+		width: 90%;
+		width: calc(100% - 30px);
+		overflow-x:hidden;
+		width: 100%;
+	}
+	table tr td {
+	    display: table-cell;
+	}
+	table tr td:nth-child(2)::before {
+	    display: none;
+	}
+	table tr td:nth-child(3)::before {
+	    display: none;
+	}
+	table tr:first-child {
+	    display: table-row;
+	}
+	h1, h2, p, ul, #webaddress {
+		position: relative;
+		margin-left: 25%;
+		width: 55%;
+	    width: calc(768px - 2 * 20px);
+	    margin-left: calc((100vw - (768px - 2 * 20px)) / 2);
+	}
+	h2 {
+		margin-left: 0;
+		text-align: right;
+		width:  25%;
+		width: calc(((100vw - (768px - 2 * 20px)) / 2) - 1.5em);
+		margin-bottom: -1.6em;
+	}
+}

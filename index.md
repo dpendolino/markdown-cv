@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Pendolino's CV
 ---
 # Daniel Pendolino
-DevOps Architect | <a href="counterhack.com">Counter Hack</a><br/>
+Senior DevOps Architect | <a href="counterhack.com">Counter Hack</a><br/>
 
 I lead the operations team at Counter Hack, where I design, deploy, and operate complex cyber ranges to support NetWars, the Holiday Hack Challenge, and the SANS Cyber Situational Training Exercise (STX).
 
@@ -28,15 +28,15 @@ I am dedicated to seeking opportunities to improve, optimize, and shore-up syste
 ## Experience
 
 `2015-present`
-**DevOps Architect**, *Counter Hack*, New Jersey, USA.
+**Senior DevOps Architect**, *Counter Hack*, New Jersey, USA.
 
 * Lead infrastructure architect for SANS Holiday Hack Challenge (20,000 players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
 * Develop and implement automation best practices for running and deploying cyber ranges using Docker, Ansible, Packer, and PowerCLI
 * Administer Linux servers running Fedora, Debian, Gentoo, and Ubuntu distributions
 * Develop a set of Windows images with Packer for rapid development and deployment
-* Develop challenges and provide back end operations support for NetWars and the SANS Holiday Hack Challenge
+* Develop challenges and provide back-end operations support for NetWars and the SANS Holiday Hack Challenge
 * Load testing using Puppeteer to emulate complex actions for thousands of users
-* Championed implementing best practices for DevOps including Gitflow, infrastructure as code, containerization, and automated deployments
+* Champion implementing best practices for DevOps including Gitflow, infrastructure as code, containerization, and automated deployments
 * Maintain the Slingshot Linux distributions from 2015-2019 using Packer and Bash to automate much of the building and testing
 * Assist with penetration testing projects and challenge quality assurance testing
 * Develop a CI/CD ready report generation tool to enable collaborative editing of penetration test reports from markdown source to PDF output
@@ -49,14 +49,20 @@ I am dedicated to seeking opportunities to improve, optimize, and shore-up syste
 
 `2011-2014`
 **Application Technical Support Analyst** *Right Answers, INC* Edison, NJ, USA
-* Provide customer support for business-to-business knowledge base, including Java/JSP code development, frequent Tomcat troubleshooting, and tickets in Remedy 
+* Provided customer support for business-to-business knowledge base, including Java/JSP code development, frequent Tomcat troubleshooting, and tickets in Remedy 
 
 ## Projects
 `Ongoing`
+**<a href="https://github.com/dpendolino/ansible-role-certbot-auto">https://github.com/dpendolino/ansible-role-certbot-auto</a>**, Ansible role to automate the installation of EFF's _certbot-auto_ wrapper for Debian and automatically install the Google DNS plugin
+
 **<a href="https://github.com/dpendolino/ansible">github.com/dpendolino/ansible</a>**, Ansible playbooks to keep my home network up and running
 
 `2020`
-**<a href="https://github.com/dpendolino/pwsh-lint">github.com/dpendolino/pwsh-lint</a>**, Docker based cross-platform linting for PowerShell
+<!-- maybe not worth mentioning -->
+**<a href="https://github.com/dpendolino/loser_case.rs">https://github.com/dpendolino/loser_case.rs</a>**Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
+
+**<a href="https://github.com/dpendolino/pwsh-lint">github.com/dpendolino/pwsh-lint</a>**, Docker based cross-platform linting 
+for PowerShell
 
 
 **<a href="https://github.com/dpendolino/Ansible-VNC">github.com/dpendolino/Ansible-VNC</a>**, Extended an Ansible role for deploying VNC to Fedora 30 and successfully contributed it back upstream

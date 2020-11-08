@@ -59,7 +59,7 @@ I am dedicated to seeking opportunities to improve, optimize, and shore-up syste
 
 `2020`
 <!-- maybe not worth mentioning -->
-**<a href="https://github.com/dpendolino/loser_case.rs">https://github.com/dpendolino/loser_case.rs</a>**Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
+**<a href="https://github.com/dpendolino/loser_case.rs">https://github.com/dpendolino/loser_case.rs</a>**, Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
 
 **<a href="https://github.com/dpendolino/pwsh-lint">github.com/dpendolino/pwsh-lint</a>**, Docker based cross-platform linting 
 for PowerShell

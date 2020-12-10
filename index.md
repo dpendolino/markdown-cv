@@ -21,10 +21,6 @@ I am dedicated to seeking opportunities to improve, optimize, and shore-up syste
   <a href="https://twitter.com/dpendolino"><i class="fab fa-twitter"></i> @dpendolino</a>
 </div>
 
-## Education
-
-**B.S., Computer Science**, *Rutgers College*, New Brunswick, NJ, USA.
-
 ## Experience
 
 `2015-present`
@@ -83,10 +79,15 @@ for PowerShell
 `2018`
 **GIAC Python Coder (GPYC)**
 
+## Education
+
+**B.S., Computer Science**, *Rutgers College*, New Brunswick, NJ, USA.
+
+
 ## Personal
 
 Citizenship: USA
 
 Residence: New Jersey / Philadelphia Metro Area, USA
 
-<br/>Last updated: November 2020<br/><br/>
+<br/>Last updated: December 2020<br/><br/>

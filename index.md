@@ -49,13 +49,13 @@ I am dedicated to seeking opportunities to improve, optimize, and shore-up syste
 
 ## Projects
 `Ongoing`
-**<a href="https://github.com/dpendolino/ansible-role-certbot-auto">https://github.com/dpendolino/ansible-role-certbot-auto</a>**, Ansible role to automate the installation of EFF's _certbot-auto_ wrapper for Debian and automatically install the Google DNS plugin
+**<a href="https://github.com/dpendolino/ansible-role-certbot-auto">github.com/dpendolino/ansible-role-certbot-auto</a>**, Ansible role to automate the installation of EFF's _certbot-auto_ wrapper for Debian and automatically install the Google DNS plugin
 
 **<a href="https://github.com/dpendolino/ansible">github.com/dpendolino/ansible</a>**, Ansible playbooks to keep my home network up and running
 
 `2020`
 <!-- maybe not worth mentioning -->
-**<a href="https://github.com/dpendolino/loser_case.rs">https://github.com/dpendolino/loser_case.rs</a>**, Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
+**<a href="https://github.com/dpendolino/loser_case.rs">github.com/dpendolino/loser_case.rs</a>**, Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
 
 **<a href="https://github.com/dpendolino/pwsh-lint">github.com/dpendolino/pwsh-lint</a>**, Docker based cross-platform linting 
 for PowerShell
@@ -73,7 +73,7 @@ for PowerShell
 
 ## Certifications
 
-`2017`
+`2021`
 **GIAC Penetration Tester (GPEN)**
 
 `2018`

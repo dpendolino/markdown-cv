@@ -3,27 +3,34 @@ layout: cv
 title: Daniel Pendolino's CV
 ---
 # Daniel Pendolino
-Senior DevOps Architect | <a href="counterhack.com">Counter Hack</a><br/>
+SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br/>
 
-I lead the operations team at Counter Hack, where I design, deploy, and operate complex cyber ranges to support NetWars, the Holiday Hack Challenge, and the SANS Cyber Situational Training Exercise (STX).
+I am a member of a fledgling Security Operations team at Spring Health with a focus on DevOps to ensure that the critical infrastructure we build is both secure and scalable. 
 
-I am dedicated to seeking opportunities to improve, optimize, and shore-up systems and ensure that challenge reliability is a constant in all Counter Hack products.
+I am dedicated to seeking opportunities to improve, optimize, and shore-up systems and ensure that systems reliability is a constant in all Spring Health products.
 
 <a href="mailto:daniel@pendolino.info">daniel@pendolino.info</a>
 
 <div id="webaddress">
   <a href="https://dpendolino.github.io"><i class="fas fa-home"></i> dpendolino.github.io</a> -
-  <!-- <a href="https://wiki.helsinki.fi/x/3xjABg"><i class="fas fa-users"></i> wiki.helsinki.fi/x/3xjABg (group)</a><br/>-->
   <a href="https://github.com/dpendolino"><i class="fab fa-github"></i> dpendolino</a> -
   <a href="https://gitlab.com/dpendolino"><i class="fab fa-gitlab"></i> dpendolino</a> -
-  <!--<a href="https://orcid.org/0000-0002-3820-6886"><i class="ai ai-orcid"></i> 0000-0002-3820-6886</a> -->
-  <!--<a href="https://www.researchgate.net/profile/David_Whipp"><i class="ai ai-researchgate"></i> David_Whipp</a> -->
   <a href="https://twitter.com/dpendolino"><i class="fab fa-twitter"></i> @dpendolino</a>
 </div>
 
 ## Experience
 
-`2015-present`
+`2021-Present`
+**SecDevOps Engineer**, *Spring Health*, New York, USA
+
+* Champion security best practices using Terrafrom, AWS, Python, Ruby, Go to build robust and secure systems
+* Develop and implement the transition to a multi-organization structure for AWS to implement automatic account provisioning with a focus on maintaining least privilege
+* Re-architect Rstudio environment to support the growing needs of our Data Scientists
+* Implement custom API to support just-in-time user provisioning in our Aptible environment through Okta
+* Conduct deep dive investigations into security incidents
+
+
+`2015-2021`
 **Senior DevOps Architect**, *Counter Hack*, New Jersey, USA.
 
 * Lead infrastructure architect for SANS Holiday Hack Challenge (20,000 players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
@@ -67,9 +74,9 @@ for PowerShell
 ## Technologies
 
 |  | *Most familiar* | *Some experience* |
-| **Languages** | Bash, Python, PowerShell, Markdown | Perl, Ruby, Javascript/Node.js, Java |
+| **Languages** | Bash, Python, PowerShell, Markdown | Go, Perl, Ruby, Javascript/Node.js, Java |
 | **Version&#160;Control** | GitHub | GitLab, Subversion |
-| **Tools** | Docker, Packer, Ansible, JQ, Puppeteer, Parallel, SSH, Nginx, Haproxy, Netcat, NMap | Terraform, Chef, Puppet, SaltStack, Kubernetes |
+| **Tools** | Terraform, Burpsuite, Docker, Packer, Ansible, JQ, Puppeteer, Parallel, SSH, Nginx, Haproxy, Netcat, NMap | Chef, Puppet, SaltStack, Kubernetes |
 
 ## Certifications
 
@@ -90,4 +97,4 @@ Citizenship: USA
 
 Residence: New Jersey / Philadelphia Metro Area, USA
 
-<br/>Last updated: December 2020<br/><br/>
+<br/>Last updated: April 2021<br/><br/>

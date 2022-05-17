@@ -7,7 +7,7 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 
 I am a member of a fledgling Security Operations team at Spring Health with a focus on DevOps to ensure that the critical infrastructure we build is both secure and scalable. 
 
-I am dedicated to seeking opportunities to improve, optimize, and shore-up systems and ensure that systems reliability is a constant in all Spring Health products.
+I am dedicated to seeking opportunities to create secure systems, automate tedious tasks, and implement secure CI/CD pipelines. I enjoy working on novel technical solutions to edge-case problems in Linux or containerized environments.  
 
 <a href="mailto:daniel@pendolino.info">daniel@pendolino.info</a>
 

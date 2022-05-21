@@ -50,6 +50,7 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 
 `2022`
 **<a href='https://bsidessf.org/ctf'>https://bsidessf.org/ctf</a>**
+* Assisted with infrastructure operations, CI/CD via GitHub Actions, load testing, QA testing, etc.
 
 `2021`
 **<a href="https://holidayhackchallenge.com/">https://holidayhackchallenge.com</a>**

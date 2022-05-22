@@ -19,7 +19,7 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 `2021-Present`
 **SecDevOps Engineer**, *Spring Health*, New York, USA
 
-* Champion security best practices using Terrafrom, AWS, Python, Ruby, Go to build robust and secure systems
+* Champion security best practices using Terrafrom, AWS, Python, Ruby, and Go to build robust and secure systems
 * Develop and implement the transition to a multi-organization structure for AWS to implement automatic account provisioning with a focus on maintaining least privilege
 * Re-architect Rstudio environment to support the growing needs of our Data Scientists
 * Implement custom API to support just-in-time user provisioning in our Aptible environment through Okta

@@ -44,7 +44,7 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 **Linux Systems Administrator** *Geophysical Fluid Dynamics Lab, NOAA*, Princeton, NJ, USA.
 * Linux System Administration including managing the queueing system and tier 2/3 support for shared High Performance Computing (HPC) assets
 * Created tools in Python to aid users of the HPC systems visualize how their compute time was allocated using the Django web framework  <!-- add more detail here and I'll help you pare it down - what were you doing with python? how fancy was it? what did you achieve? -->
-* Worked closely with NOAA governement employees on the system to follow the Gaia compute cluster
+* Worked closely with NOAA government employees on the system to follow the Gaia compute cluster
 
 ## Volunteer Experience
 

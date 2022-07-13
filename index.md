@@ -24,29 +24,29 @@ title: Daniel Pendolino's CV
 * Conduct deep dive investigations into security incidents and resolve vulnerabilities
 * Promote reviews of existing security vendors to ensure they are valuable and optimally configured
 * Conduct security architecture reviews and suggest alterations, mitigations, or new paradigms to achieve the goals with minimal risk
-* Build cross-team security awareness by hosting team watching session of security talks and supporting Q&A
+* Build cross-team security awareness by hosting team-watching session of security talks with Q&A session
 * Create Python scripts to automate tasks such as parsing CLI output when an API was not available or mapping user data between Okta and local identity systems
-* Used a mix of Python and Go to aid Data Scientists with cleaning and parsing raw CSV data, achieving an 85% reduction in errors in data ingestion into Stitch
+* Create a mix of Python and Go scripts to aid Data Scientists with cleaning and parsing raw CSV data, achieving an 85% reduction in errors in data ingestion into Stitch
 
 
 `2015-2021`
 **Senior DevOps Architect, Security Challenges**, *Counter Hack*, New Jersey, USA.
 
-* Architect the infrastructure for SANS Holiday Hack Challenge (10,000+ players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
-* Develop and implement best practices for running and deploying cyber ranges to support security training using Docker, Ansible, Packer, and PowerCLI
-* Administer Linux servers running Fedora, Debian, Gentoo, and Ubuntu distributions
-* Leverage Vagrant Windows Edge Developer VM image to create a clean, destructible environment with tooling to support penetration testing and reporting
-* Develop challenges and provide back-end operations support for NetWars and the SANS Holiday Hack Challenge
-* Champion implementing best practices for DevOps including Gitflow, infrastructure as code, containerization, and automated deployments
-* Maintain the Slingshot Linux distributions from 2015-2019 using Packer and Bash to automate much of the building and testing
-* Collaborate on penetration testing projects and challenge testing
-* Develop a CI/CD ready report generation tool to enable collaborative editing of penetration test reports from markdown source to PDF output
+* Architected the infrastructure for SANS Holiday Hack Challenge (10,000+ players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
+* Developed and implemented best practices for running and deploying CtF environments to support security training using Docker, Ansible, Packer, and PowerCLI
+* Administered Linux servers running Fedora, Debian, Gentoo, and Ubuntu distributions
+* Leveraged Vagrant Windows Edge Developer VM image to create a clean, destructible environment with tooling to support penetration testing and reporting
+* Developed challenges and provide back-end operations support for NetWars and the SANS Holiday Hack Challenge
+* Championed implementing best practices for DevOps including Gitflow, infrastructure as code, containerization, and automated deployments
+* Maintained the Slingshot Linux distributions from 2015-2019 using Packer and Bash to automate much of the building and testing
+* Collaborated on penetration testing projects and challenge testing
+* Developed a CI/CD-ready report generation tool to enable collaborative editing of penetration test reports from markdown source to PDF output
 
 ## Volunteer Experience
 
 `2022`
 **<a href='https://bsidessf.org/ctf'>https://bsidessf.org/ctf</a>**
-* Assisted with infrastructure operations, CI/CD via GitHub Actions, challenge development and testing, load testing, etc.
+* Assisted with infrastructure operations, CI/CD via GitHub Actions, challenge development and testing, load testing
 
 `2021`
 **<a href="https://holidayhackchallenge.com/">https://holidayhackchallenge.com</a>**
@@ -64,14 +64,6 @@ for PowerShell
 
 
 **<a href="https://github.com/dpendolino/Ansible-VNC">github.com/dpendolino/Ansible-VNC</a>**, Extended an Ansible role for deploying VNC to Fedora 30 and successfully contributed it back upstream
-
-
-## Technologies
-
-|  | *Most familiar* | *Some experience* |
-| **Languages** | Bash, Python, PowerShell, Markdown | Go, Perl, Ruby, Javascript/Node.js, Java |
-| **Version&#160;Control** | GitHub | GitLab, Subversion |
-| **Tools** | Terraform, Burpsuite, Docker, Packer, Ansible, JQ, Puppeteer, Parallel, SSH, Nginx, Haproxy, Netcat, NMap | Chef, Puppet, SaltStack, Kubernetes |
 
 ## Certifications
 

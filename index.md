@@ -3,7 +3,6 @@ layout: cv
 title: Daniel Pendolino's CV
 ---
 # Daniel Pendolino
-SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br/>
 
 <a href="mailto:daniel@pendolino.info">daniel@pendolino.info</a>
 
@@ -19,38 +18,35 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 `2021-Present`
 **SecDevOps Engineer**, *Spring Health*, New York, USA
 
-* Champion security best practices using Terrafrom, AWS, Python, Ruby, and Go to build robust and secure systems
-* Develop and implement the transition to a multi-organization structure for AWS to implement automatic account provisioning with a focus on maintaining least privilege
-* Re-architect Rstudio environment to support the growing needs of our Data Scientists
-* Implement custom API to support just-in-time user provisioning in our Aptible environment through Okta
-* Conduct deep dive investigations into security incidents
+* Champion security best practices in DevOps using Terraform, AWS, Python, Ruby, and Go to build robust and secure platforms and applications
+* Develop and implement the transition to a multi-organization structure for AWS with a focus on maintaining least privilege
+* Implement custom API in Ruby to support just-in-time user provisioning in our Aptible environment through Okta
+* Conduct deep dive investigations into security incidents and resolve vulnerabilities
+* Promote reviews of existing security vendors to ensure they are valuable and optimally configured
+* Conduct security architecture reviews and suggest alterations, mitigations, or new paradigms to achieve the goals with minimal risk
+* Build cross-team security awareness by hosting team watching session of security talks and supporting Q&A
+* Create Python scripts to automate tasks such as parsing CLI output when an API was not available or mapping user data between Okta and local identity systems
+* Used a mix of Python and Go to aid Data Scientists with cleaning and parsing raw CSV data, achieving an 85% reduction in errors in data ingestion into Stitch
 
 
 `2015-2021`
-**Senior DevOps Architect**, *Counter Hack*, New Jersey, USA.
+**Senior DevOps Architect, Security Challenges**, *Counter Hack*, New Jersey, USA.
 
-* Lead infrastructure architect for SANS Holiday Hack Challenge (20,000 players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
-* Develop and implement automation best practices for running and deploying cyber ranges using Docker, Ansible, Packer, and PowerCLI
+* Architect the infrastructure for SANS Holiday Hack Challenge (10,000+ players/year) using Google Compute Engine, Docker, Nginx, Haproxy, etc.
+* Develop and implement best practices for running and deploying cyber ranges to support security training using Docker, Ansible, Packer, and PowerCLI
 * Administer Linux servers running Fedora, Debian, Gentoo, and Ubuntu distributions
-* Develop a set of Windows images with Packer for rapid development and deployment
+* Leverage Vagrant Windows Edge Developer VM image to create a clean, destructible environment with tooling to support penetration testing and reporting
 * Develop challenges and provide back-end operations support for NetWars and the SANS Holiday Hack Challenge
-* Load testing using Puppeteer to emulate complex actions for thousands of users
 * Champion implementing best practices for DevOps including Gitflow, infrastructure as code, containerization, and automated deployments
 * Maintain the Slingshot Linux distributions from 2015-2019 using Packer and Bash to automate much of the building and testing
-* Assist with penetration testing projects and challenge quality assurance testing
+* Collaborate on penetration testing projects and challenge testing
 * Develop a CI/CD ready report generation tool to enable collaborative editing of penetration test reports from markdown source to PDF output
-
-`2014-2015`
-**Linux Systems Administrator** *Geophysical Fluid Dynamics Lab, NOAA*, Princeton, NJ, USA.
-* Linux System Administration including managing the queueing system and tier 2/3 support for shared High Performance Computing (HPC) assets
-* Created tools in Python to aid users of the HPC systems visualize how their compute time was allocated using the Django web framework  <!-- add more detail here and I'll help you pare it down - what were you doing with python? how fancy was it? what did you achieve? -->
-* Worked closely with NOAA government employees on the system to follow the Gaia compute cluster
 
 ## Volunteer Experience
 
 `2022`
 **<a href='https://bsidessf.org/ctf'>https://bsidessf.org/ctf</a>**
-* Assisted with infrastructure operations, CI/CD via GitHub Actions, load testing, QA testing, etc.
+* Assisted with infrastructure operations, CI/CD via GitHub Actions, challenge development and testing, load testing, etc.
 
 `2021`
 **<a href="https://holidayhackchallenge.com/">https://holidayhackchallenge.com</a>**
@@ -62,8 +58,6 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 **<a href="https://github.com/dpendolino/ansible">github.com/dpendolino/ansible</a>**, Ansible playbooks to keep my home network up and running
 
 `2020`
-<!-- maybe not worth mentioning -->
-**<a href="https://github.com/dpendolino/loser_case.rs">github.com/dpendolino/loser_case.rs</a>**, Rust library to randomly  change the case of text. Helpful in learning Cargo, GitHub Actions, and the process for submitting a library to crates.io
 
 **<a href="https://github.com/dpendolino/pwsh-lint">github.com/dpendolino/pwsh-lint</a>**, Docker based cross-platform linting
 for PowerShell
@@ -98,4 +92,4 @@ Citizenship: USA
 
 Residence: New Jersey / Philadelphia Metro Area, USA
 
-<br/>Last updated: April 2022<br/><br/>
+<br/>Last updated: July 2022<br/><br/>

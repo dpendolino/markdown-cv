@@ -16,13 +16,22 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 
 ## Experience
 
-`2021-Present`
+`2022-Present`
+**Staff Security Engineer**, *Ibotta, Inc*, Denver, Colorado, USA
+
+* Migrated the Gradle Enterprise set up from Sandbox to a production account by transitioning it from a ad-hoc EC2 instance to running as infrastructure-as-code in the appropriate Kubernetes cluster
+    * Worked with the Mobile team to encourage self service and ownership if their own assets
+* Lead development and use of [steampipe](https://steampipe.io/) to quickly meet SOX and SOC2 deadlines
+* Created Kubernetes Red Team Workshop based on the [kubernetes-goat](https://madhuakula.com/kubernetes-goat/) project
+* Lead initiative for discovering personally identifying information across terabytes of data store in S3 using AWS Macie
+
+`2021-2022`
 **SecDevOps Engineer**, *Spring Health*, New York, USA
 
-* Champion security best practices using Terrafrom, AWS, Python, Ruby, and Go to build robust and secure systems
+* Champion security best practices using Terraform, AWS, Python, Ruby, and Go to build robust and secure systems
 * Develop and implement the transition to a multi-organization structure for AWS to implement automatic account provisioning with a focus on maintaining least privilege
-* Re-architect Rstudio environment to support the growing needs of our Data Scientists
-* Implement custom API to support just-in-time user provisioning in our Aptible environment through Okta
+* Re-architect RStudio environment to support the growing needs of Data Scientists
+* Implement custom API to support just-in-time user provisioning in the Aptible environment through Okta
 * Conduct deep dive investigations into security incidents
 
 
@@ -48,7 +57,7 @@ SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br
 
 ## Volunteer Experience
 
-`2022`
+`2022-Present`
 **<a href='https://bsidessf.org/ctf'>https://bsidessf.org/ctf</a>**
 * Assisted with infrastructure operations, CI/CD via GitHub Actions, load testing, QA testing, etc.
 

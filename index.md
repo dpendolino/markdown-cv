@@ -20,7 +20,7 @@ Staff Security Engineer | <a href="https://www.ibotta.com">Ibotta</a><br/>
 **Staff Security Engineer**, *Ibotta, Inc*, Denver, Colorado, USA
 
 * Championed best practices by migrating the Gradle Enterprise set up from Sandbox to a production account by transitioning it from a ad-hoc EC2 instance to running as infrastructure-as-code in the appropriate Kubernetes cluster
-    * Lead cross-team effort with the Mobile team to encourage self service and ownership of their own assets
+* Lead cross-team effort with the Mobile team to encourage self service and ownership of their own assets
 * Lead development and use of [steampipe](https://steampipe.io/) to quickly meet SOX and SOC2 deadlines
 * Greatly improved platform security by creating a Kubernetes Red Team Workshop based on the [kubernetes-goat](https://madhuakula.com/kubernetes-goat/) project
 * Improved companywide privacy practices by leading initiative for discovering personally identifying information across terabytes of data store in S3 using AWS Macie

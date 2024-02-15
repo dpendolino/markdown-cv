@@ -3,7 +3,7 @@ layout: cv
 title: Daniel Pendolino's CV
 ---
 # Daniel Pendolino
-SecDevOps Engineer | <a href="https://www.springhealth.com">Spring Health</a><br/>
+Staff Security Engineer | <a href="https://www.ibotta.com">Ibotta</a><br/>
 
 <a href="mailto:daniel@pendolino.info">daniel@pendolino.info</a>
 

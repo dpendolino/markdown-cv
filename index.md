@@ -24,6 +24,7 @@ Staff Security Engineer | <a href="https://www.ibotta.com">Ibotta</a><br/>
 * Lead development and use of [steampipe](https://steampipe.io/) to quickly meet SOX and SOC2 deadlines
 * Greatly improved platform security by creating a Kubernetes Red Team Workshop based on the [kubernetes-goat](https://madhuakula.com/kubernetes-goat/) project
 * Improved companywide privacy practices by leading initiative for discovering personally identifying information across terabytes of data store in S3 using AWS Macie
+* Took over lead of migration from role to attribute based authorization in AWS
 
 `2021-2022`
 **SecDevOps Engineer**, *Spring Health*, New York, USA
@@ -105,6 +106,6 @@ for PowerShell
 
 Citizenship: USA
 
-Residence: New Jersey / Philadelphia Metro Area, USA
+Residence: New Jersey / New York Metro Area, USA
 
-<br/>Last updated: April 2022<br/><br/>
+<br/>Last updated: September 2025<br/><br/>

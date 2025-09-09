@@ -11,7 +11,7 @@ Staff Security Engineer | <a href="https://www.ibotta.com">Ibotta</a><br/>
   <a href="https://dpendolino.github.io"><i class="fas fa-home"></i> dpendolino.github.io</a> -
   <a href="https://github.com/dpendolino"><i class="fab fa-github"></i> dpendolino</a> -
   <a href="https://gitlab.com/dpendolino"><i class="fab fa-gitlab"></i> dpendolino</a> -
-  <a href="https://bsky.app/profile/dpendolino.bsky.social"><i class="fab fa-bluesky"></i> @dpendolino</a>
+  <a href="https://bsky.app/profile/dpendolino.bsky.social"><i class="fa-brands fa-bluesky"></i> @dpendolino</a>
 </div>
 
 ## Experience
